@@ -1,3 +1,8 @@
 {
-    "extension.launch": "ストップウォッチ起動"
+    "extension.launch": "ストップウォッチ起動",
+    "description": "「00:00:00」を押すとメニューが開きます",
+    "menu": "メニュー",
+    "start": "開始",
+    "pause": "一時停止",
+    "reset": "リセット"
 }

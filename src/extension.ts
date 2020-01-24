@@ -3,8 +3,8 @@
 import * as vscode from 'vscode';
 
 // ローカライズしたJSONファイルを取り込む。
-const langJa = require('../src/package.nls.ja.json');
-const langEn = require('../src/package.nls.json');
+const langJa = require('../package.nls.ja.json');
+const langEn = require('../package.nls.json');
 
 // 時間を扱うライブラリ
 var moment = require('moment');
