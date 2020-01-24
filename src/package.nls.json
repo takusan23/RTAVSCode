@@ -1,0 +1,8 @@
+{
+    "description": "Press 00:00:00 to open the menu",
+    "extension.launch": "Start stopwatch",
+    "menu": "Menu",
+    "start": "Start",
+    "pause": "Pause",
+    "reset": "Reset"
+}
