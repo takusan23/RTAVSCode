@@ -45,7 +45,7 @@
 		"vscode-test": "^1.2.2"
 	},
 	"dependencies": {
-		"moment": "^2.24.0"
+		"moment": "^2.29.2"
 	},
 	"icon": "icon.png"
 }
